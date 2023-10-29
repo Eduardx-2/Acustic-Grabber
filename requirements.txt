@@ -1,0 +1,15 @@
+os
+json
+psutil
+time
+requests
+zipfile
+discord-webhook
+base64
+sqlite3
+shutil
+platform
+subprocess
+datetime
+pywin32
+pycryptodome
