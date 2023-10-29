@@ -27,6 +27,11 @@ Acustic Grabber es un extractor de Contraseñas, Gmails, Números y Cookies
   <img width="80%" height="70%" src="https://github.com/Eduardx-2/Acustic-Grabber/blob/main/img/Acustic_img.png">
 </p>
 
+## Versión y Mensaje ⚠⚠⚠⚠
+
+- **Esta Herramienta fue programada con fines EDUCATIVOS.**
+- **VERSIÓN** -> 1.0.1 (Seguire Actualizandolo)
+
 ## License ❗❗❗❗
 
 - **Este software se proporciona "tal cual" y no se ofrece ninguna garantía, expresa o implícita, incluyendo, pero no limitándose a, las garantías de comerciabilidad, idoneidad para un propósito particular y no infracción. El autor y los titulares de derechos de autor no serán responsables de ninguna reclamación, daño o responsabilidad, ya sea en una acción de contrato, agravio o de otro tipo, que surja de, en relación con o como resultado del uso o desempeño de este software.
